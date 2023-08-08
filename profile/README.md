@@ -3,7 +3,7 @@
 
 # Our general goals for this shared environment:
 
--Support everyone in the shellfish program to make their data analysis better and easier
+-Support everyone in the Shellfish Assessment Program to make their data analysis better and easier
 
 -Be a welcoming place for all in the program, regardless of their current skill set
 
