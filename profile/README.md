@@ -1,12 +1,13 @@
 # **Shellfish Assessment Program Crab Crushers Commons**
+![IMG_1474](https://github.com/AFSC-Shellfish-Assessment-Program/.github/assets/59858752/ae34bb9f-8513-42fe-8317-928695b15c2b)
 
-#Our general goals for this shared environment:
+# Our general goals for this shared environment:
 
 -Support everyone in the shellfish program to make their data analysis better and easier
 
 -Be a welcoming place for all in the program, regardless of their current skill set
 
-#More specific objectives for the program around data processing and analysis:
+# More specific objectives for the program around data processing and analysis:
 
 -Move towards a standard of conducting all data processing in script
 
